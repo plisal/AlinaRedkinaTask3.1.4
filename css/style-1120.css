@@ -74,4 +74,17 @@
     flex-shrink: 0;
     margin-top: -16px;
   }
+
+  .services__container{
+    margin: 24px 24px 48px 24px;
+    column-gap: 24px;
+  }
+
+  .services__header {
+    padding-left: var(--pad-left-768);
+  }
+
+  .mySwiper {
+    display: none;
+  }
 }
